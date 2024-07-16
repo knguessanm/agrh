@@ -12,7 +12,7 @@
                     <div class="hero-section-text mt-5">
                         <h6 class="text-white">Vous êtes à la recherche de l'emploi de vos rêves ?</h6>
 
-                        <h1 class="hero-title text-white mt-4 mb-4">Plate-forme en ligne. <br> Meilleur portail de l'emploi</h1>
+                        <h1 class="hero-title text-white mt-4 mb-4">Votre plate-forme <br> en ligne. <br> Le Meilleur portail de l'emploi</h1>
 
                         <a href="#categories-section" class="custom-btn custom-border-btn btn">Parcourir les catégories</a>
                     </div>
@@ -41,20 +41,20 @@
 
                             <div class="col-lg-12 col-12">
                                 <button type="submit" class="form-control">
-                                    Find a job
+                                    Trouver un emploi
                                 </button>
                             </div>
 
                             <div class="col-12">
                                 <div class="d-flex flex-wrap align-items-center mt-4 mt-lg-0">
-                                    <span class="text-white mb-lg-0 mb-md-0 me-2">Popular keywords:</span>
+                                    <span class="text-white mb-lg-0 mb-md-0 me-2">Mots clés populaires :</span>
 
                                     <div>
-                                        <a href="{{ route('job-details') }}" class="badge">Web design</a>
+                                        <a href="{{ route('job-details') }}" class="badge">Informatique</a>
 
-                                        <a href="{{ route('job-details') }}" class="badge">Marketing</a>
+                                        <a href="{{ route('job-details') }}" class="badge">Ressources Humaines</a>
 
-                                        <a href="{{ route('job-details') }}" class="badge">Customer support</a>
+                                        <a href="{{ route('job-details') }}" class="badge">Manager d'entreprise</a>
                                     </div>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@
             <div class="row justify-content-center align-items-center">
 
                 <div class="col-lg-12 col-12 text-center">
-                    <h2 class="mb-5">Browse by <span>Categories</span></h2>
+                    <h2 class="mb-5">Recherche par <span>Categories</span></h2>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6">
@@ -80,7 +80,7 @@
                         <a href="#" class="d-flex flex-column justify-content-center align-items-center h-100">
                             <i class="categories-icon bi-window"></i>
 
-                            <small class="categories-block-title">Web design</small>
+                            <small class="categories-block-title">Informatique</small>
 
                             <div class="categories-block-number d-flex flex-column justify-content-center align-items-center">
                                 <span class="categories-block-number-text">320</span>
@@ -108,7 +108,7 @@
                         <a href="#" class="d-flex flex-column justify-content-center align-items-center h-100">
                             <i class="categories-icon bi-play-circle-fill"></i>
 
-                            <small class="categories-block-title">Video</small>
+                            <small class="categories-block-title">community manager</small>
 
                             <div class="categories-block-number d-flex flex-column justify-content-center align-items-center">
                                 <span class="categories-block-number-text">340</span>
@@ -122,7 +122,7 @@
                         <a href="#" class="d-flex flex-column justify-content-center align-items-center h-100">
                             <i class="categories-icon bi-globe"></i>
 
-                            <small class="categories-block-title">Websites</small>
+                            <small class="categories-block-title">Ressources Humaines</small>
 
                             <div class="categories-block-number d-flex flex-column justify-content-center align-items-center">
                                 <span class="categories-block-number-text">140</span>
@@ -136,7 +136,7 @@
                         <a href="#" class="d-flex flex-column justify-content-center align-items-center h-100">
                             <i class="categories-icon bi-people"></i>
 
-                            <small class="categories-block-title">Customer Support</small>
+                            <small class="categories-block-title">Manager d'entreprise</small>
 
                             <div class="categories-block-number d-flex flex-column justify-content-center align-items-center">
                                 <span class="categories-block-number-text">84</span>
@@ -203,9 +203,9 @@
             <div class="row">
 
                 <div class="col-lg-6 col-12 text-center mx-auto mb-4">
-                    <h2>Featured Jobs</h2>
+                    <h2>LES OFFRES A LA UNES</h2>
 
-                    <p><strong>Over 10k opening jobs</strong> Feel free to download and use our free HTML templates from Tooplate website.</p>
+                    <p><strong>Plus de 10 000 offres d'emploi </strong> Rien que pour vous !</p>
                 </div>
 
                 <div class="col-lg-12 col-12">
@@ -217,13 +217,13 @@
                         <div class="job-body d-flex flex-wrap flex-auto align-items-center ms-4">
                             <div class="mb-3">
                                 <h4 class="job-title mb-lg-0">
-                                    <a href="{{ route('job-details') }}" class="job-title-link">Technical Lead</a>
+                                    <a href="{{ route('job-details') }}" class="job-title-link">Agent Commercial</a>
                                 </h4>
 
                                 <div class="d-flex flex-wrap align-items-center">
                                     <p class="job-location mb-0">
                                         <i class="custom-icon bi-geo-alt me-1"></i>
-                                        Kuala, Malaysia
+                                    Côte d'Ivoire
                                     </p>
 
                                     <p class="job-date mb-0">
@@ -233,12 +233,12 @@
 
                                     <p class="job-price mb-0">
                                         <i class="custom-icon bi-cash me-1"></i>
-                                        $20k
+                                        80 000fcfa
                                     </p>
 
                                     <div class="d-flex">
                                         <p class="mb-0">
-                                            <a href="{{ route('job-details') }}" class="badge badge-level">Internship</a>
+                                            <a href="{{ route('job-details') }}" class="badge badge-level">stage</a>
                                         </p>
 
                                         <p class="mb-0">
@@ -249,7 +249,7 @@
                             </div>
 
                             <div class="job-section-btn-wrap">
-                                <a href="{{ route('job-details') }}" class="custom-btn btn">Apply now</a>
+                                <a href="{{ route('job-details') }}" class="custom-btn btn">Postuler maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -262,13 +262,13 @@
                         <div class="job-body d-flex flex-wrap flex-auto align-items-center ms-4">
                             <div class="mb-3">
                                 <h4 class="job-title mb-lg-0">
-                                    <a href="{{ route('job-details') }}" class="job-title-link">Business Director</a>
+                                    <a href="{{ route('job-details') }}" class="job-title-link">Directeur Marketing</a>
                                 </h4>
 
                                 <div class="d-flex flex-wrap align-items-center">
                                     <p class="job-location mb-0">
                                         <i class="custom-icon bi-geo-alt me-1"></i>
-                                        California, USA
+                                        Yopougon, zone industrielle
                                     </p>
 
                                     <p class="job-date mb-0">
@@ -278,7 +278,7 @@
 
                                     <p class="job-price mb-0">
                                         <i class="custom-icon bi-cash me-1"></i>
-                                        $90k
+                                    Non publié
                                     </p>
 
                                     <div class="d-flex">
@@ -287,14 +287,14 @@
                                         </p>
 
                                         <p class="mb-0">
-                                            <a href="{{ route('job-details') }}" class="badge">Full Time</a>
+                                            <a href="{{ route('job-details') }}" class="badge">CDI</a>
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="job-section-btn-wrap">
-                                <a href="{{ route('job-details') }}" class="custom-btn btn">Apply now</a>
+                                <a href="{{ route('job-details') }}" class="custom-btn btn">Postulez- maintenant!</a>
                             </div>
                         </div>
                     </div>
@@ -313,7 +313,7 @@
                                 <div class="d-flex flex-wrap align-items-center">
                                     <p class="job-location mb-0">
                                         <i class="custom-icon bi-geo-alt me-1"></i>
-                                        Tower, Paris
+                                        Cocody, Vallon
                                     </p>
 
                                     <p class="job-date mb-0">
@@ -323,7 +323,7 @@
 
                                     <p class="job-price mb-0">
                                         <i class="custom-icon bi-cash me-1"></i>
-                                        $50k
+                                        non-publié
                                     </p>
 
                                     <div class="d-flex">
@@ -332,14 +332,14 @@
                                         </p>
 
                                         <p class="mb-0">
-                                            <a href="{{ route('job-details') }}" class="badge">Contract</a>
+                                            <a href="{{ route('job-details') }}" class="badge">CDD</a>
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="job-section-btn-wrap">
-                                <a href="{{ route('job-details') }}" class="custom-btn btn">Apply now</a>
+                                <a href="{{ route('job-details') }}" class="custom-btn btn">Postulez maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -358,7 +358,7 @@
                                 <div class="d-flex flex-wrap align-items-center">
                                     <p class="job-location mb-0">
                                         <i class="custom-icon bi-geo-alt me-1"></i>
-                                        Bangkok, Thailand
+                                        Zone industrielle, Koummassi
                                     </p>
 
                                     <p class="job-date mb-0">
@@ -368,7 +368,7 @@
 
                                     <p class="job-price mb-0">
                                         <i class="custom-icon bi-cash me-1"></i>
-                                        $75k - 80k
+                                        800k fcfa
                                     </p>
 
                                     <div class="d-flex">
@@ -377,14 +377,14 @@
                                         </p>
 
                                         <p class="mb-0">
-                                            <a href="{{ route('job-details') }}" class="badge">Part Time</a>
+                                            <a href="{{ route('job-details') }}" class="badge">CDI</a>
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="job-section-btn-wrap">
-                                <a href="{{ route('job-details') }}" class="custom-btn btn">Apply now</a>
+                                <a href="{{ route('job-details') }}" class="custom-btn btn">Postulez maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -403,7 +403,7 @@
                                 <div class="d-flex flex-wrap align-items-center">
                                     <p class="job-location mb-0">
                                         <i class="custom-icon bi-geo-alt me-1"></i>
-                                        Bangkok, Thailand
+                                        Yamoussoukro
                                     </p>
 
                                     <p class="job-date mb-0">
@@ -411,25 +411,20 @@
                                         2 hours ago
                                     </p>
 
-                                    <p class="job-price mb-0">
-                                        <i class="custom-icon bi-cash me-1"></i>
-                                        $100k
-                                    </p>
-
                                     <div class="d-flex">
                                         <p class="mb-0">
-                                            <a href="{{ route('job-details')}}s.html" class="badge badge-level">Entry</a>
+                                            <a href="{{ route('job-details')}}s.html" class="badge badge-level">Senior</a>
                                         </p>
 
                                         <p class="mb-0">
-                                            <a href="{{ route('job-details')}}s.html" class="badge">Remote</a>
+                                            <a href="{{ route('job-details')}}s.html" class="badge">CDI</a>
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="job-section-btn-wrap">
-                                <a href="job-details.html" class="custom-btn btn">Apply now</a>
+                                <a href="job-details.html" class="custom-btn btn">Postulez maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -455,7 +450,7 @@
                             </li>
                             <li class="page-item">
                                 <a class="page-link" href="#" aria-label="Next">
-                                    <span aria-hidden="true">Next</span>
+                                    <span aria-hidden="true">Suivant</span>
                                 </a>
                             </li>
                         </ul>
@@ -472,9 +467,9 @@
 
                 <div class="col-lg-6 col-12">
                     <div class="custom-text-block custom-border-radius-start">
-                        <h2 class="text-white mb-3">Gotto helps you an easier way to get new job</h2>
+                        <h2 class="text-white mb-3"> Nous vous aidons à trouver plus facilement un nouvel emploi</h2>
 
-                        <p class="text-white">You are not allowed to redistribute the template ZIP file on any other template collection website. Please contact us for more info. Thank you.</p>
+                        <p class="text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis ipsa ab ad temporibus quos, odit modi inventore optio itaque exercitationem debitis eveniet nemo explicabo voluptatibus, provident minima ducimus aperiam! A..</p>
 
                         <div class="d-flex mt-4">
                             <div class="counter-thumb">
@@ -483,7 +478,7 @@
                                     <span class="counter-number-text">M</span>
                                 </div>
 
-                                <span class="counter-text">Daily active users</span>
+                                <span class="counter-text">Utilisateurs actifs quotidiens </span>
                             </div>
 
                             <div class="counter-thumb">
@@ -492,7 +487,7 @@
                                     <span class="counter-number-text">k</span>
                                 </div>
 
-                                <span class="counter-text">Opening jobs</span>
+                                <span class="counter-text">Offres d'emploi</span>
                             </div>
                         </div>
                     </div>
@@ -517,9 +512,9 @@
             <div class="row align-items-center">
 
                 <div class="col-lg-6 col-12 mb-4">
-                    <h2>Recent Jobs</h2>
+                    <h2>Publications récentes</h2>
 
-                    <p><strong>Over 10k opening jobs</strong> Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito adipcingi elit eismuod larehai</p>
+                    <p><strong>Plus de 10 000 offres d'emploi </strong> Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito adipcingi elit eismuod larehai</p>
                 </div>
 
                 <div class="clearfix"></div>
@@ -533,7 +528,7 @@
 
                             <div class="job-image-box-wrap-info d-flex align-items-center">
                                 <p class="mb-0">
-                                    <a href="{{ route('job-details') }}" class="badge badge-level">Internship</a>
+                                    <a href="{{ route('job-details') }}" class="badge badge-level">Stage</a>
                                 </p>
 
                                 <p class="mb-0">
@@ -544,7 +539,7 @@
 
                         <div class="job-body">
                             <h4 class="job-title">
-                                <a href="job-details.html" class="job-title-link">Technical Lead</a>
+                                <a href="job-details.html" class="job-title-link">Responsable technique</a>
                             </h4>
 
                             <div class="d-flex align-items-center">
@@ -564,7 +559,7 @@
                             <div class="d-flex align-items-center">
                                 <p class="job-location">
                                     <i class="custom-icon bi-geo-alt me-1"></i>
-                                    Kuala, Malaysia
+                                    Abidjan, Côte d'IVoire
                                 </p>
 
                                 <p class="job-date">
@@ -576,10 +571,10 @@
                             <div class="d-flex align-items-center border-top pt-3">
                                 <p class="job-price mb-0">
                                     <i class="custom-icon bi-cash me-1"></i>
-                                    $50k
+                                    500k
                                 </p>
 
-                                <a href="{{ route('job-details') }}" class="custom-btn btn ms-auto">Apply now</a>
+                                <a href="{{ route('job-details') }}" class="custom-btn btn ms-auto">Postuler maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -605,7 +600,7 @@
 
                         <div class="job-body">
                             <h4 class="job-title">
-                                <a href="job-details.html" class="job-title-link">Marketing Assistant</a>
+                                <a href="job-details.html" class="job-title-link"> Assistante Marketing</a>
                             </h4>
 
                             <div class="d-flex align-items-center">
@@ -625,7 +620,7 @@
                             <div class="d-flex align-items-center">
                                 <p class="job-location">
                                     <i class="custom-icon bi-geo-alt me-1"></i>
-                                    California, USA
+                                    Bouaké, Côte d'Ivoire 
                                 </p>
 
                                 <p class="job-date">
@@ -637,10 +632,10 @@
                             <div class="d-flex align-items-center border-top pt-3">
                                 <p class="job-price mb-0">
                                     <i class="custom-icon bi-cash me-1"></i>
-                                    $20k
+                                    300k fcfa
                                 </p>
 
-                                <a href="{{ route('job-details') }}" class="custom-btn btn ms-auto">Apply now</a>
+                                <a href="{{ route('job-details') }}" class="custom-btn btn ms-auto">Postuler maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -659,14 +654,14 @@
                                 </p>
 
                                 <p class="mb-0">
-                                    <a href="{{ route('job-details') }}" class="badge">Contract</a>
+                                    <a href="{{ route('job-details') }}" class="badge">CDD</a>
                                 </p>
                             </div>
                         </div>
 
                         <div class="job-body">
                             <h4 class="job-title">
-                                <a href="job-details.html" class="job-title-link">Programmer</a>
+                                <a href="job-details.html" class="job-title-link">Analyste programmeur</a>
                             </h4>
 
                             <div class="d-flex align-items-center">
@@ -686,7 +681,7 @@
                             <div class="d-flex align-items-center">
                                 <p class="job-location">
                                     <i class="custom-icon bi-geo-alt me-1"></i>
-                                    California, USA
+                                    Bamako, Mali
                                 </p>
 
                                 <p class="job-date">
@@ -698,10 +693,10 @@
                             <div class="d-flex align-items-center border-top pt-3">
                                 <p class="job-price mb-0">
                                     <i class="custom-icon bi-cash me-1"></i>
-                                    $68k
+                                    800k cfa
                                 </p>
 
-                                <a href="job-details.html" class="custom-btn btn ms-auto">Apply now</a>
+                                <a href="job-details.html" class="custom-btn btn ms-auto">Postuler maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -734,7 +729,7 @@
                                 <div class="job-image-wrap d-flex align-items-center bg-white shadow-lg mt-2 mb-4">
                                     <img src="images/logos/yelp.png" class="job-image me-3 img-fluid" alt="">
 
-                                    <p class="mb-0">Yelp</p>
+                                    <p class="mb-0">Sivop</p>
                                 </div>
 
                                 <a href="#" class="bi-bookmark ms-auto me-2">
@@ -747,7 +742,7 @@
                             <div class="d-flex align-items-center">
                                 <p class="job-location">
                                     <i class="custom-icon bi-geo-alt me-1"></i>
-                                    California, USA
+                                    Zone Industrielle, Yopougon 
                                 </p>
 
                                 <p class="job-date">
@@ -759,10 +754,10 @@
                             <div class="d-flex align-items-center border-top pt-3">
                                 <p class="job-price mb-0">
                                     <i class="custom-icon bi-cash me-1"></i>
-                                    $35k - 45k
+                                    350k - 450k
                                 </p>
 
-                                <a href="job-details.html" class="custom-btn btn ms-auto">Apply now</a>
+                                <a href="job-details.html" class="custom-btn btn ms-auto">Postuler maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -781,14 +776,14 @@
                                 </p>
 
                                 <p class="mb-0">
-                                    <a href="{{ route('job-details') }}" class="badge">Contract</a>
+                                    <a href="{{ route('job-details') }}" class="badge">CDI</a>
                                 </p>
                             </div>
                         </div>
 
                         <div class="job-body">
                             <h4 class="job-title">
-                                <a href="job-details.html" class="job-title-link">Sales Representative</a>
+                                <a href="job-details.html" class="job-title-link">Représentant des ventes</a>
                             </h4>
 
                             <div class="d-flex align-items-center">
@@ -808,7 +803,7 @@
                             <div class="d-flex align-items-center">
                                 <p class="job-location">
                                     <i class="custom-icon bi-geo-alt me-1"></i>
-                                    Bangkok, Thailand
+                                    Marcory, Abidjan
                                 </p>
 
                                 <p class="job-date">
@@ -820,10 +815,10 @@
                             <div class="d-flex align-items-center border-top pt-3">
                                 <p class="job-price mb-0">
                                     <i class="custom-icon bi-cash me-1"></i>
-                                    $20k - 35k
+                                    500k - 600k
                                 </p>
 
-                                <a href="job-details.html" class="custom-btn btn ms-auto">Apply now</a>
+                                <a href="job-details.html" class="custom-btn btn ms-auto">Postuler maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -842,7 +837,7 @@
                                 </p>
 
                                 <p class="mb-0">
-                                    <a href="{{ route('job-details') }}" class="badge">Full Time</a>
+                                    <a href="{{ route('job-details') }}" class="badge">CDI</a>
                                 </p>
                             </div>
                         </div>
@@ -869,7 +864,7 @@
                             <div class="d-flex align-items-center">
                                 <p class="job-location">
                                     <i class="custom-icon bi-geo-alt me-1"></i>
-                                    Melbourne, Australia
+                                    Plateau,Abidjan
                                 </p>
 
                                 <p class="job-date">
@@ -884,14 +879,14 @@
                                     $20k
                                 </p>
 
-                                <a href="job-details.html" class="custom-btn btn ms-auto">Apply now</a>
+                                <a href="job-details.html" class="custom-btn btn ms-auto">Postuler maintenant</a>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-12 recent-jobs-bottom d-flex ms-auto my-4">
-                    <a href="{{ route('job-details') }}" class="custom-btn btn ms-lg-auto">Browse Job Listings</a>
+                    <a href="{{ route('job-details') }}" class="custom-btn btn ms-lg-auto">Parcourir les offres d'emplois</a>
                 </div>
 
             </div>
@@ -903,7 +898,7 @@
             <div class="row">
 
                 <div class="col-lg-12 col-12">
-                    <h2 class="text-center mb-5">Happy customers</h2>
+                    <h2 class="text-center mb-5">Des clients satisfaits</h2>
 
                     <div class="owl-carousel owl-theme reviews-carousel">
                         <div class="reviews-thumb">
@@ -913,7 +908,7 @@
 
                                 <div class="d-flex align-items-center justify-content-between flex-wrap w-100 ms-3">
                                     <p class="mb-0">
-                                        <strong>Susan L</strong>
+                                        <strong>Marie-Eden</strong>
                                         <small>Product Manager</small>
                                     </p>
 
@@ -940,8 +935,8 @@
 
                                 <div class="d-flex align-items-center justify-content-between flex-wrap w-100 ms-3">
                                     <p class="mb-0">
-                                        <strong>Jack</strong>
-                                        <small>Technical Lead</small>
+                                        <strong>Naomie LORENZI</strong>
+                                        <small>Dev ops</small>
                                     </p>
 
                                     <div class="reviews-icons">
@@ -968,7 +963,7 @@
 
                                 <div class="d-flex align-items-center justify-content-between flex-wrap w-100 ms-3">
                                     <p class="mb-0">
-                                        <strong>Haley</strong>
+                                        <strong>Sarah Beda</strong>
                                         <small>Sales & Marketing</small>
                                     </p>
 
@@ -995,8 +990,8 @@
 
                                 <div class="d-flex align-items-center justify-content-between flex-wrap w-100 ms-3">
                                     <p class="mb-0">
-                                        <strong>Jackson</strong>
-                                        <small>Dev Ops</small>
+                                        <strong> Séréna TRO</strong>
+                                        <small>Sécurité Réseau</small>
                                     </p>
 
                                     <div class="reviews-icons">
@@ -1022,8 +1017,8 @@
 
                                 <div class="d-flex align-items-center justify-content-between flex-wrap w-100 ms-3">
                                     <p class="mb-0">
-                                        <strong>Kevin</strong>
-                                        <small>Internship</small>
+                                        <strong>Kelly Yao</strong>
+                                        <small> UX-UI /design</small>
                                     </p>
 
                                     <div class="reviews-icons">
@@ -1056,16 +1051,16 @@
             <div class="row">
 
                 <div class="col-lg-6 col-10">
-                    <h2 class="text-white mb-2">Over 10k opening jobs</h2>
+                    <h2 class="text-white mb-2"> Plus de 10 000 offres d'emploi</h2>
 
-                    <p class="text-white">If you are looking for free HTML templates, you may visit Tooplate website. If you need a collection of free templates, you can visit Too CSS website.</p>
+                    <p class="text-white">Rejoignez notre réseau dès maintenant! </p>
                 </div>
 
                 <div class="col-lg-4 col-12 ms-auto">
                     <div class="custom-border-btn-wrap d-flex align-items-center mt-lg-4 mt-2">
-                        <a href="#" class="custom-btn custom-border-btn btn me-4">Create an account</a>
+                        <a href="#" class="custom-btn custom-border-btn btn me-4"> Créer un compte</a>
 
-                        <a href="#" class="custom-link">Post a job</a>
+                        <a href="#" class="custom-link">Publier une offre</a>
                     </div>
                 </div>
 

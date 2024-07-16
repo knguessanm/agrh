@@ -23,6 +23,7 @@
                     <i class="custom-icon bi-telephone me-1"></i>
 
                     <a href="tel: +225-05-06-86-86-01" class="site-footer-link">
+                                  tel: +225-05-06-86-86-01
 
                     </a>
                 </p>
@@ -38,7 +39,7 @@
             </div>
 
             <div class="col-lg-2 col-md-3 col-6 ms-lg-auto">
-                <h6 class="site-footer-title">Company</h6>
+                <h6 class="site-footer-title">AGRH ACADEMY</h6>
 
                 <ul class="footer-menu">
                     <li class="footer-menu-item"><a href="#" class="footer-menu-link">A Propos</a></li>
@@ -67,7 +68,7 @@
                 <h6 class="site-footer-title">Notre Newsletter</h6>
 
                 <form class="custom-form newsletter-form" action="#" method="post" role="form">
-                    <h6 class="site-footer-title">Get notified jobs news</h6>
+                    <h6 class="site-footer-title">Soyez informé des actualités sur les emplois</h6>
 
                     <div class="input-group">
                         <span class="input-group-text" id="basic-addon1"><i class="bi-person"></i></span>
@@ -89,7 +90,7 @@
             <div class="row">
 
                 <div class="col-lg-4 col-12 d-flex align-items-center">
-                    <p class="copyright-text">Copyright © Digifemmes 2024</p>
+                    <p class="copyright-text">Copyright © DigiFemmes 2024</p>
 
                     <ul class="footer-menu d-flex">
                         <li class="footer-menu-item"><a href="#" class="footer-menu-link">Politique de confidentialité</a></li>
@@ -105,11 +106,11 @@
                         </li>
 
                         <li class="social-icon-item">
-                            <a href="#" class="social-icon-link bi-facebook"></a>
+                            <a href="https://www.facebook.com/profile.php?id=61553022872988" class="social-icon-link bi-facebook"></a>
                         </li>
 
                         <li class="social-icon-item">
-                            <a href="#" class="social-icon-link bi-linkedin"></a>
+                            <a href="https://www.linkedin.com/company/agrh-ci/" class="social-icon-link bi-linkedin"></a>
                         </li>
 
                         <li class="social-icon-item">
@@ -117,7 +118,7 @@
                         </li>
 
                         <li class="social-icon-item">
-                            <a href="#" class="social-icon-link bi-youtube"></a>
+                            <a href="https://www.youtube.com/@amicalegrh7046/featured" class="social-icon-link bi-youtube"></a>
                         </li>
                     </ul>
                 </div>
