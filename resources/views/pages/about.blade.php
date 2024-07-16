@@ -32,32 +32,32 @@
                                 </div>
                             </div>
 
-                            <h3 class="mb-3 mt-5">I have travel 10+ more countries in this year.</h3>
-                            <p class="mb-5">Poor Alice! It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.</p>
+                            <h3 class="mb-3 mt-5">Nos Habilitations.</h3>
+                            <p class="mb-5">pour mieux vous servir !</p>
 
                             <div class="row">
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-1.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Hill ward</h4>
+                                        <h4 class="mt-3">Stratégie Industrielle</h4>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-2.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Awesome ride</h4>
+                                        <h4 class="mt-3">Entrepreunariat</h4>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-3.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Newyork</h4>
+                                        <h4 class="mt-3">Gestion RH</h4>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-4.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Rising Sea</h4>
+                                        <h4 class="mt-3">Comptabilité</h4>
                                     </div>
                                 </div>
                             </div>
