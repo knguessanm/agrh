@@ -14,7 +14,7 @@
 
                         <h1 class="hero-title text-white mt-4 mb-4">Votre plate-forme <br> en ligne. <br> Le Meilleur portail de l'emploi</h1>
 
-                        <a href="#categories-section" class="custom-btn custom-border-btn btn">Parcourir les catégories</a>
+                        <a href="#categories-section" class="custom-btn custom-border-btn btn"></a>
                     </div>
                 </div>
 
@@ -72,7 +72,7 @@
             <div class="row justify-content-center align-items-center">
 
                 <div class="col-lg-12 col-12 text-center">
-                    <h2 class="mb-5">Recherche par <span>Categories</span></h2>
+                    <h2 class="mb-5"><span> Les categories</span></h2>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6">
@@ -159,23 +159,23 @@
                         <img src="images/professional-asian-businesswoman-gray-blazer.jpg" class="about-image custom-border-radius-start img-fluid" alt="">
 
                         <div class="about-info">
-                            <h4 class="text-white mb-0 me-2">Julia Ward</h4>
+                            <h4 class="text-white mb-0 me-2">ESPACE PUBLICITAIRE</h4>
 
-                            <p class="text-white mb-0">Investor</p>
+                            <p class="text-white mb-0">à vendre</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-6 col-12">
                     <div class="custom-text-block">
-                        <h2 class="text-white mb-2">Introduction Gotto</h2>
+                        <h2 class="text-white mb-2">Espace publicitaire à vendre</h2>
 
-                        <p class="text-white">Gotto Job is a free website template for job portals. This layout is based on Bootstrap 5 CSS framework. Thank you for visiting <a href="https://www.tooplate.com" target="_parent">Tooplate website</a>. Images are from <a href="https://www.freepik.com/" target="_blank">FreePik</a> website.</p>
+                        <p class="text-white">L'entreprise propose, ici ses produits</p>
 
                         <div class="custom-border-btn-wrap d-flex align-items-center mt-5">
-                            <a href="about.html" class="custom-btn custom-border-btn btn me-4">Get to know us</a>
+                            <a href="about.html" class="custom-btn custom-border-btn btn me-4"> relier avec son site</a>
 
-                            <a href="#job-section" class="custom-link smoothscroll">Explore Jobs</a>
+                            <a href="#job-section" class="custom-link smoothscroll">Relier avec sa page facebook</a>
                         </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
                         <div class="instagram-block-text">
                             <a href="https://instagram.com/" class="custom-btn btn">
                                 <i class="bi-instagram"></i>
-                                @Gotto
+                                @AGRH
                             </a>
                         </div>
                     </div>

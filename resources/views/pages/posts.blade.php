@@ -16,11 +16,11 @@
                                 <div class="post-content-grid">
                                     <div class="label-date">
                                         <span class="day">15</span>
-                                        <span class="month text-uppercase">Apr</span>
+                                        <span class="month text-uppercase">Juillet</span>
                                     </div>
-                                    <span class="cat-name text-color font-extra font-sm text-uppercase letter-spacing">toutotudg sdfjnefeiioi</span>
+                                    <span class="cat-name text-color font-extra font-sm text-uppercase letter-spacing">E t si on en parlait ?</span>
                                     <h3 class="post-title mt-1">
-                                        <a href="blog-single.html">First Look At Self-Portrait's Autumn Collection</a></h3>
+                                        <a href="blog-single.html">Le Sursalaire</a></h3>
                                     <p>
                                         Lorem ipsum dolor sitamet consectetu ocilng elit. Donec eros aseb dui, suscipit ex uti commodo dignis justo acas turpis egestas. Nullam et cursus
                                     </p>
@@ -38,8 +38,8 @@
                                         <span class="day">02</span>
                                         <span class="month text-uppercase">Jan</span>
                                     </div>
-                                    <span class="cat-name text-color font-sm font-extra text-uppercase letter-spacing">lifestyle</span>
-                                    <h3 class="post-title mt-1"><a href="blog-single.html">A Simple Way to Feel Like Home</a></h3>
+                                    <span class="cat-name text-color font-sm font-extra text-uppercase letter-spacing">Un repos bien mérité</span>
+                                    <h3 class="post-title mt-1"><a href="blog-single.html">Le congé annuel</a></h3>
                                     <p>Lorem ipsum dolor sitamet consectetu ocilng elit. Donec eros aseb dui, suscipit ex uti commodo dignis justo acas turpis egestas. Nullam et cursus</p>
                                     <a href="blog-single.html" class="custom-btn btn btn-grey mt-3"> Lire plus</a>
                                 </div>
@@ -57,7 +57,7 @@
                                         <span class="month text-uppercase">sep</span>
                                     </div>
                                     <span class=" cat-name text-color font-sm font-extra text-uppercase letter-spacing">weekends</span>
-                                    <h3 class="post-title mt-1"><a href="blog-single.html">5 tips to plan your weekends</a></h3>
+                                    <h3 class="post-title mt-1"><a href="blog-single.html">Famille et travail</a></h3>
                                     <p>Lorem ipsum dolor sitamet consectetu ocilng elit. Donec eros aseb dui, suscipit ex uti commodo dignis justo acas turpis egestas. Nullam et cursus</p>
                                     <a href="blog-single.html" class="custom-btn btn btn-grey mt-3"> Lire plus</a>
                                 </div>
@@ -74,7 +74,7 @@
                                         <span class="month text-uppercase">may</span>
                                     </div>
                                     <span class="cat-name text-color font-sm font-extra text-uppercase letter-spacing">Lifestyle</span>
-                                    <h3 class="post-title mt-1"><a href="blog-single.html">The best to-do list to boost your productivity</a></h3>
+                                    <h3 class="post-title mt-1"><a href="blog-single.html">Comment Être productif au travail ?</a></h3>
                                     <p>Lorem ipsum dolor sitamet consectetu ocilng elit. Donec eros aseb dui, suscipit ex uti commodo dignis justo acas turpis egestas. Nullam et cursus</p>
                                     <a href="blog-single.html" class="custom-btn btn btn-grey mt-3"> Lire plus</a>
                                 </div>
@@ -90,8 +90,8 @@
                                         <span class="day">30</span>
                                         <span class="month text-uppercase">mar</span>
                                     </div>
-                                    <span class="cat-name text-color font-sm font-extra text-uppercase letter-spacing">Travel</span>
-                                    <h3 class="post-title mt-1"><a href="blog-single.html">What kind of travel you are?</a></h3>
+                                    <span class="cat-name text-color font-sm font-extra text-uppercase letter-spacing">Bien-être</span>
+                                    <h3 class="post-title mt-1"><a href="blog-single.html">La santé mental</a></h3>
                                     <p>Lorem ipsum dolor sitamet consectetu ocilng elit. Donec eros aseb dui, suscipit ex uti commodo dignis justo acas turpis egestas. Nullam et cursus</p>
                                     <a href="blog-single.html" class="custom-btn btn btn-grey mt-3"> Lire plus</a>
                                 </div>
@@ -107,8 +107,8 @@
                                         <span class="day">24</span>
                                         <span class="month text-uppercase">jun</span>
                                     </div>
-                                    <span class="cat-name text-color font-sm font-extra text-uppercase letter-spacing">Explore</span>
-                                    <h3 class="post-title mt-1"><a href="blog-single.html">Explore the whole world </a></h3>
+                                    <span class="cat-name text-color font-sm font-extra text-uppercase letter-spacing">avenir</span>
+                                    <h3 class="post-title mt-1"><a href="blog-single.html">L'industrie Immobilier </a></h3>
                                     <p>Lorem ipsum dolor sitamet consectetu ocilng elit. Donec eros aseb dui, suscipit ex uti commodo dignis justo acas turpis egestas. Nullam et cursus</p>
                                     <a href="blog-single.html" class="custom-btn btn btn-grey mt-3"> Lire plus</a>
                                 </div>

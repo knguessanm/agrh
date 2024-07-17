@@ -133,7 +133,7 @@
                                 <img src="images/avatar/portrait-charming-middle-aged-attractive-woman-with-blonde-hair.jpg" class="avatar-image img-fluid" alt="">
                                 <div class="d-flex align-items-center justify-content-between flex-wrap w-100 ms-3">
                                     <p class="mb-0">
-                                        <strong>Marie-Eden</strong>
+                                        <strong>Marie-Eden </strong>
                                         <small>Product Manager</small>
                                     </p>
                                     <div class="reviews-icons">

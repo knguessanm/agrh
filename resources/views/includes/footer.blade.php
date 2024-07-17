@@ -73,7 +73,7 @@
                     <div class="input-group">
                         <span class="input-group-text" id="basic-addon1"><i class="bi-person"></i></span>
 
-                        <input type="text" name="newsletter-name" id="newsletter-name" class="form-control" placeholder="yourname@gmail.com" required>
+                        <input type="text" name="newsletter-name" id="newsletter-name" class="form-control" placeholder="Inscris ton mail" required>
 
                         <button type="submit" class="form-control">
                             <i class="bi-send"></i>
@@ -123,7 +123,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 col-12 mt-2 d-flex align-items-center mt-lg-0">
-                    <p>Design: <a class="sponsored-link" rel="sponsored" href="https://www.digifemmesacademy.com" target="_blank"></a>LEE-Lorenzi-Beda-Kely-Serena</p>
+                    <p>Developpé par : <br> <a class="sponsored-link" rel="sponsored" href="https://www.digifemmesacademy.com" target="_blank"></a>Marie-Eden/Lorenzi/Beda/Kely/Serena</p>
                 </div>
                 <a class="back-top-icon bi-arrow-up smoothscroll d-flex justify-content-center align-items-center" href="#top"></a>
             </div>
