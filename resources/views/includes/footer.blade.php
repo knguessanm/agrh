@@ -42,11 +42,11 @@
                 <h6 class="site-footer-title">AGRH ACADEMY</h6>
 
                 <ul class="footer-menu">
-                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">A Propos</a></li>
+                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">A Propos de nous</a></li>
 
                     <li class="footer-menu-item"><a href="#" class="footer-menu-link">Articles</a></li>
 
-                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Jobs</a></li>
+                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Emplois et stages</a></li>
 
                     <li class="footer-menu-item"><a href="#" class="footer-menu-link">Contact</a></li>
                 </ul>
@@ -56,11 +56,11 @@
                 <h6 class="site-footer-title">Resources</h6>
 
                 <ul class="footer-menu">
-                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Guide</a></li>
+                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Article</a></li>
 
-                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">How it works</a></li>
+                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Nos Habilitations</a></li>
 
-                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Salary Tool</a></li>
+                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Vidéo</a></li>
                 </ul>
             </div>
 
@@ -123,7 +123,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 col-12 mt-2 d-flex align-items-center mt-lg-0">
-                    <p>Developpé par : <br> <a class="sponsored-link" rel="sponsored" href="https://www.digifemmesacademy.com" target="_blank"></a>Marie-Eden/Lorenzi/Beda/Kely/Serena</p>
+                    <p>Developpé par : <br> <a class="sponsored-link" rel="sponsored" href="https://www.digifemmesacademy.com" target="_blank"></a>Marie-Eden<br>Naomie Lorenzi<br> Sarah Beda<br>Serena TRO<br>Kelly Yao</p>
                 </div>
                 <a class="back-top-icon bi-arrow-up smoothscroll d-flex justify-content-center align-items-center" href="#top"></a>
             </div>
