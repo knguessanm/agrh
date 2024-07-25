@@ -19,7 +19,7 @@
 
                                 </div>
                                 <div class="col-lg-4">
-                                    <h5 class="text-uppercase letter-spacing mb-4">Notre vission</h5>
+                                    <h5 class="text-uppercase letter-spacing mb-4">Notre vision</h5>
                                     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis biben. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit.</p>
                                 </div>
                                 <div class="col-lg-4">
