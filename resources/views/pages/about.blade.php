@@ -10,22 +10,42 @@
                             <img src="images/about.jpg" alt="" class="img-fluid w-100">
                         </div>
                     </div>
+                    <br>
+                    <h5 class="text-uppercase letter-spacing mb-4">Le mot du gérant, notre vision</h5>
+                                
+  <p>Réussir sur le plan professionnel, c’est avant tout une question  d’apprentissage : se former tout au long de sa carrière.  
+  Développer ses qualités professionnelles, acquérir de nouvelles  
+  
+  compétences professionnelles, s’adapter au changement à l’ère de la transition  numérique doit être le lot quotidien de toutes les organisations. 
+  Mais, sans que nous nous en rendions compte souvent, apprendre est une  disposition et une volonté qui relève avant tout d’une aptitude positive.  
+  Celle-ci a ses ressources dans le désir d’écouter, d’apprendre et de mettre en  application ses connaissances. C’est la soif de découvrir et de grandir ! 
+  Et nous nous engageons à insuffler cette soif pour contribuer efficacement au  développement des organisations. 
+  <br>M. Djibril CAMARA <br>
+  <br>Gérant statutaire<br> 
+</p>
                     <div class="row justify-content-center mt-5">
                         <div class="col-lg-12">
                             <div class="row">
                                 <div class="col-lg-4">
                                     <h5 class="text-uppercase letter-spacing mb-4">Qui sommes nous?</h5>
-                                    <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat</p>
+                                    <p>  <strong>Agréé par le FDFP</strong>, le cabinet AGRH ACADEMY est une SARL U, créée en 2022  avec pour objectif de traiter efficacement les problématiques posées dans les  organisations de divers secteurs d’activité.  
+</p>
 
                                 </div>
                                 <div class="col-lg-4">
-                                    <h5 class="text-uppercase letter-spacing mb-4">Notre vision</h5>
-                                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis biben. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit.</p>
+                                    <h5 class="text-uppercase letter-spacing mb-4">Pourquoi choisir AGRH ACADEMY</h5>
+                                    <ul> <!--j 'ai ajouté une liste non ordonnée -->
+                                        <li>Un recueil des attentes de chaque participant avant les sessions de formations 
+                                        <li>Des évaluations permanentes pour s’assurer de la bonne évolution des participants
+                                         <li>Un suivi méthodique personnalisé pour accompagner efficacement les participants 
+                                         <li>Un vivier d’entreprise partenaire pour faciliter le partage des  bonnes pratiques 
+
+                                    </ul>
                                 </div>
                                 <div class="col-lg-4">
                                     <h5 class="text-uppercase letter-spacing mb-4">Suivez-nous :</h5>
                                     <div class="follow-socials">
-                                        <a href="#" class="fb"><i class="ti-facebook"></i></a>
+                                        <a href='{{ route("https://www.facebook.com/") }}'class="fb"><i class="ti-facebook"></i></a>
                                         <a href="#" class="twt"><i class="ti-twitter"></i></a>
                                         <a href="#" class="inst"><i class="ti-instagram"></i></a>
                                     </div>
@@ -39,25 +59,37 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-1.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Stratégie Industrielle</h4>
+                                        <h4 class="mt-3"> PLURIVALENCE DE LA PRODUCTION INDUSTRIELLE </h4>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-2.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Entrepreunariat</h4>
+                                        <h4 class="mt-3">  SPECIALITES PLURIVALENCES ECHANGE -GESTION </h4>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-3.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Gestion RH</h4>
+                                        <h4 class="mt-3"> SPECIALITES PLURIVALENCES TRANSPORT ET LOGISTIQUE  </h4>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="about-widget mb-4 mb-lg-0">
                                         <img src="images/news/news-4.jpg" alt="" class="img-fluid">
-                                        <h4 class="mt-3">Comptabilité</h4>
+                                        <h4 class="mt-3"> SPECIALITES PLURIVALENCES DE LA GRH </h4>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="about-widget mb-4 mb-lg-0">
+                                        <img src="images/news/news-4.jpg" alt="" class="img-fluid">
+                                        <h4 class="mt-3"> MANAGEMENT, GESTION D’ENTREPRISE</h4>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="about-widget mb-4 mb-lg-0">
+                                        <img src="images/news/news-4.jpg" alt="" class="img-fluid">
+                                        <h4 class="mt-3"> ENTREPREUNARIAT</h4>
                                     </div>
                                 </div>
                             </div>
